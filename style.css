@@ -20,7 +20,7 @@ body{
     background-color: var(--dark-cyan);
     margin: 0px;
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 
